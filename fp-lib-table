@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "Modulo_de_carga_USB_C")(type "KiCad")(uri "C:/Users/adrie/Modulo_de_carga_USB_C.pretty")(options "")(descr ""))
+  (lib (name "StepUp")(type "KiCad")(uri "C:/Users/adrie/StepUp.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "C:/Users/adrie/Library.pretty")(options "")(descr ""))
+  (lib (name "HX711")(type "KiCad")(uri "C:/Users/adrie/HX711.pretty")(options "")(descr ""))
+  (lib (name "Esp32")(type "KiCad")(uri "C:/Users/adrie/Esp32.pretty")(options "")(descr ""))
+  (lib (name "MicroSD")(type "KiCad")(uri "C:/Users/adrie/MicroSD.pretty")(options "")(descr ""))
+)

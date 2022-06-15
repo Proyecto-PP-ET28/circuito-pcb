@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ESP32s")(type "KiCad")(uri "C:/Users/adrie/ESP32s.kicad_sym")(options "")(descr ""))
+  (lib (name "MicroSD")(type "KiCad")(uri "C:/Users/adrie/MicroSD.kicad_sym")(options "")(descr ""))
+)
