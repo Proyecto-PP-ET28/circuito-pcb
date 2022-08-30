@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.19,
-          "height": 2.19,
-          "width": 1.74
+          "drill": 3.0,
+          "height": 3.5,
+          "width": 3.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -120,6 +120,7 @@
       },
       "track_widths": [
         0.0,
+        0.4,
         0.6,
         1.0
       ],
@@ -127,6 +128,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 1.5,
+          "drill": 0.8
         }
       ],
       "zones_allow_external_fillets": false,
@@ -379,11 +384,11 @@
   "pcbnew": {
     "last_paths": {
       "gencad": "",
-      "idf": "",
+      "idf": "Proyecto Parcticas.emn",
       "netlist": "Proyecto Parcticas.net",
       "specctra_dsn": "",
       "step": "Proyecto Parcticas.step",
-      "vrml": ""
+      "vrml": "Proyecto Parcticas.wrl"
     },
     "page_layout_descr_file": ""
   },
